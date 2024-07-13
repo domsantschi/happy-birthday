@@ -282,7 +282,7 @@ body {
   .six .hat {
     width: 50px;
     top: -20px;
-    left: 20; /* 20% more to the left from original 30% */
+    left: 17; /* 20% more to the left from original 30% */
     top: 0;   /* 20% more down from original -20px */
   }
 
